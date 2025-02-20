@@ -328,5 +328,5 @@ p {
 }
 
 .indented-text li {
-    text-indent: 20px; /* Indent only the text */
+    text-indent: 20px;
 }
